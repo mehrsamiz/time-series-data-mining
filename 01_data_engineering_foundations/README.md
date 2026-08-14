@@ -10,7 +10,7 @@ are linked from my [GitHub profile](https://github.com/mehrsamiz/time-series-dat
 ## Module Breakdown
 
 ### Part 1: Categorical Feature Engineering (Bank Marketing)
-- **Dataset:**UCI Bank Marketing dataset, 41,188 rows × 16 columns. Missing values are encoded as the string `"unknown"`.
+- **Dataset:** UCI Bank Marketing dataset, 41,188 rows × 16 columns. Missing values are encoded as the string `"unknown"`.
 - **Problem:** predict which customers are likely to subscribe when contacted again.
 - **What's in the notebook:**
   1. **Missing-value imputation:** — categorical `unknown`s replaced with each
