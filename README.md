@@ -67,7 +67,7 @@ needs `torch` and `xgboost`; Project 3 needs `xgboost` and `scipy`; Project 1 ne
 To run a specific project:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/mehrsamiz/time-series-data-mining
 cd time-series-data-mining/<project-folder>
 python -m venv .venv && source .venv/bin/activate   # optional
 pip install -r requirements.txt
