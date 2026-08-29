@@ -1,0 +1,36 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+scikit-learn>=1.3
+xgboost>=2.0
+torch>=2.1
+jupyterlab>=4.0
+
+
+Utils == works
+model == Log good
+logs == so many logs
+
+---------------------------
+
+yet to be added to GitHub:
+
+Game
+Computer Network
+
+
+Compiler
+AP
+BP
+
+Vision????
+
+
+thesis = topic (schools and future and interest)
+
+English IELTs
+
+--------------------------
+
+
+
