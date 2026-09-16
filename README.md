@@ -2,8 +2,7 @@
 
 Three linked coursework projects on the same NASDAQ-100 dataset, moving from raw feature
 engineering through sequence forecasting to unsupervised regime discovery and rigorous model
-validation. Built as part of a university Data Mining course; restructured and documented here
-as a self-contained, reproducible portfolio.
+validation. Built as part of a university Data Mining course; restructured and documented here.
 
 Each project stands on its own — own notebook, own README, own data — but they share a single
 engineered feature pipeline (base price/volume features plus RSI, MACD, ATR, and Bollinger
